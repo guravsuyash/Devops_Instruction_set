@@ -25,14 +25,15 @@
 
 	`apt update && apt upgrade`
 
-**On prompting on something Type Y and Hit enter**
+	**On prompting on something Type Y and Hit enter**
 
 5. Once done install Git and OpenSSH using
 
 	`pkg install git openssh`
  
-**On prompting on something Type Y and Hit enter**
-1. Once done grant termux permission to use the storage
+	**On prompting on something Type Y and Hit enter**
+
+6. Once done grant termux permission to use the storage
 
 	`termux-setup-storage`
 7. Once permission is granted create a directory in storage by navigating to it
