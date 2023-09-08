@@ -25,7 +25,7 @@
 	
 	`apt update && apt upgrade`
  
-	**On prompting on something Type Y and Hit enter**
+ **On prompting on something Type Y and Hit enter**
 5. Once done install git and openssh using
 	
   `pkg install git openssh`
