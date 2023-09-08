@@ -30,7 +30,7 @@
 5. Once done install Git and OpenSSH using
 
 	`pkg install git openssh`
- 
+	
 	**On prompting on something Type Y and Hit enter**
 
 6. Once done grant termux permission to use the storage
