@@ -22,10 +22,11 @@
 2. Download Obsidian from Play Store
 3. Once download install Termux
 4. Update it using the following commands 
-	
+
 	`apt update && apt upgrade`
  
  **On prompting on something Type Y and Hit enter**
+
 5. Once done install git and openssh using
 	
   `pkg install git openssh`
