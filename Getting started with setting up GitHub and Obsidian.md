@@ -12,6 +12,6 @@
 6. Use the following command to initialize the repository and add remote to it 
     `git init`
 
-    Note add ssh link for private repository    
+    ==Note add ssh link for private repository==    
 
     `git remote add "Link_to_your_repository"`
