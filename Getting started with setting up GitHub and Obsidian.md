@@ -60,8 +60,7 @@
 	 [Step 4 and Step 6 of Desktop Setup](#Desktop)
 
 14. Open Github navigate to Settings>SSH and GPG keys
-	
-	![123](https://github.com/guravsuyash/Testrepo/assets/55230261/b9528f39-24da-41f5-8253-f7172388df7a)
+![123](https://github.com/guravsuyash/Testrepo/assets/55230261/b9528f39-24da-41f5-8253-f7172388df7a)
 
 15. Under SSH Keys click on new SSH key
 
