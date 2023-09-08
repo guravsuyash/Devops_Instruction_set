@@ -65,3 +65,13 @@
 15. Under SSH Keys click on new SSH key
 
 16. Copy paste the generated key from the termux by using cat command
+
+	 `cat "key_name.pub"`
+
+17. Give your key a title and paste it and click on add SSH key
+18. Once done SSH key is added, check for authentication 
+
+	 `ssh -T git@github.com`
+
+19. It would prompt something type yes for the first time 
+20. And authentication would be successful 
