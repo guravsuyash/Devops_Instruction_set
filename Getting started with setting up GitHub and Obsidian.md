@@ -22,9 +22,11 @@
 2. Download Obsidian from Play Store
 3. Once download install Termux
 4. Update it using the following commands 
- **On prompting on something Type Y and Hit enter**
 
 	`apt update && apt upgrade`
+
+ **On prompting on something Type Y and Hit enter**
+
 5. Once done install Git and OpenSSH using
 
 	`pkg install git openssh`
@@ -47,7 +49,7 @@
 
 	 `ssh-keygen -t ed25519 -C "youremail@address.com"`
 
-11. On prompting anything keep pressing enter until the key is generated
+**On prompting anything keep pressing enter until the key is generated**
 12. Once done change the permission of the key to be readable using the following command
 
 	  `chmod ugo+r "key_name.pub"`
@@ -62,7 +64,4 @@
 
 15. Under SSH Keys click on new SSH key
 
-
-
 16. Copy paste the generated key from the termux by using cat command
-ddd
