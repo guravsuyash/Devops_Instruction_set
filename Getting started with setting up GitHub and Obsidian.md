@@ -25,20 +25,21 @@
 	
 	`apt update && apt upgrade`
  
-  **On prompting on something Type Y and Hit enter**
+	**On prompting on something Type Y and Hit enter**
 5. Once done install git and openssh using
 	
   `pkg install git openssh`
  
  **On prompting on something Type Y and Hit enter**
-
 6. Once done grant termux permission to use the storage
 	
 	`termux-setup-storage`
 	
 	**On prompting click on allow**
 7. Once permission is granted create a directory in storage by navigating to it
+	
 	`cd storage`
+	
 	`mkdir .ssh`
 8. The directory that we created would be used to authenticate with GitHub using ssh keys
 9. Navigate to this directory using
