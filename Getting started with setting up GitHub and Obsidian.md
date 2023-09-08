@@ -22,10 +22,9 @@
 2. Download Obsidian from Play Store
 3. Once download install Termux
 4. Update it using the following commands 
+ **On prompting on something Type Y and Hit enter**
 
 	`apt update && apt upgrade`
- 
- **On prompting on something Type Y and Hit enter**
 5. Once done install Git and OpenSSH using
 
 	`pkg install git openssh`
@@ -33,7 +32,7 @@
  **On prompting on something Type Y and Hit enter**
 6. Once done grant termux permission to use the storage'
 
-	termux-setup-storage
+	`termux-setup-storage`
 7. Once permission is granted create a directory in storage by navigating to it
 	
 	`cd storage`
