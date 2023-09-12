@@ -67,7 +67,7 @@
 	 ```
 
 10. Use the following command to generate key for ssh
-	
+
 	```
 	ssh-keygen -t ed25519 -C "youremail@address.com"
 	```
