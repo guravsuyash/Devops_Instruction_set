@@ -1,7 +1,9 @@
 **On prompting anything keep pressing enter until the key is generated**
 12. Once done change the permission of the key to be readable using the following command
 
-	This is some Text
+	```
+	chmod ugo+r "key_name.pub"
+	```
 
 13. Now follow step from Desktop 
 
