@@ -75,7 +75,7 @@
 **On prompting anything keep pressing enter until the key is generated**
 12. Once done change the permission of the key to be readable using the following command
 
-	chmod ugo+r "key_name.pub"
+	neofetch
 
 13. Now follow step from Desktop 
 
