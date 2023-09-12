@@ -1,7 +1,7 @@
 **On prompting anything keep pressing enter until the key is generated**
 12. Once done change the permission of the key to be readable using the following command
 
-	neofetch
+This is some Text
 
 13. Now follow step from Desktop 
 
