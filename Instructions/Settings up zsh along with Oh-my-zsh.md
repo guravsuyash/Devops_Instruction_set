@@ -19,6 +19,7 @@ Termux
 pkg install zsh
 ```
 ## Now download Oh-my-zsh
+For do more info visit [Oh-my-zsh](https://ohmyz.sh/) 
 ```
 sh -c "$(curl -fsSL https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"
 ```
