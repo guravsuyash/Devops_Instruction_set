@@ -1,0 +1,5 @@
+# ignore ALL Obsidian files
+**/.obsidian/
+
+# ignore ALL .log files
+#.gitignore
