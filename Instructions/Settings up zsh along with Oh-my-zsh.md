@@ -37,3 +37,18 @@ Once done set
 `ZSH_THEME="powerlevel10k/powerlevel10k"` in `~/.zshrc`.
 Source thr `.zshrc` file to see the changes 
 Go through the installation and choose the customisation that you need 
+# Plugins 
+## sudo
+Edit the .zshrc file and under the plugin function add sudo as a parameter preceding with space 
+## zsh-autosuggestions
+Navigate to the . oh-my-zsh/plugins directory and clone 
+```
+git clone https://github.com/zsh-users/zsh-autosuggestions.git
+```
+Once done add as parameter in .zshrc as in sudo
+## zsh-syntax-highlighting
+Navigate to the . oh-my-zsh/plugins directory and clone 
+```
+git clone https://github.com/zsh-users/zsh-syntax-highlighting.git
+```
+Once done add as parameter in .zshrc as in zsh-autosuggestions
