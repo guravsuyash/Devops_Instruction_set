@@ -1,9 +1,9 @@
 # Topics to Learn
-1. Domain
+1. [Domain](https://www.youtube.com/watch?v=H2al7-l1p6c)
 2. TLD / CCTLD
 3. Registry
 4. Registrar
-5. - DNS
+5. - [DNS](https://www.youtube.com/watch?v=pl2JKLbjOTM)
 6. - Types of hosting - shared, VPS, dedicated, etc
 7. - Email Hosting
 8. - Web Hosting
