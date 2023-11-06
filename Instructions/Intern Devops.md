@@ -11,7 +11,7 @@
 10. [Web Space](https://www.ntchosting.com/encyclopedia/internet/web-space/)
 11. [Database](https://www.geeksforgeeks.org/what-is-database/)
 12. [FTP](https://www.google.com/amp/s/www.geeksforgeeks.org/file-transfer-protocol-ftp-in-application-layer/amp/)
-13. [Http](https://www.cloudflare.com/learning/ddos/glossary/hypertext-transfer-protocol-http/#:~:text=The%20Hypertext%20Transfer%20Protocol%20(HTTP,of%20the%20network%20protocol%20stack.) / [Https](https://en.m.wikipedia.org/wiki/HTTPS)
+13. [Http](https://www.cloudflare.com/learning/ddos/glossary/hypertext-transfer-protocol-http/#:~:text=The%20Hypertext%20Transfer%20Protocol%20(HTTP,of%20the%20network%20protocol%20stack.)  /  [Https](https://en.m.wikipedia.org/wiki/HTTPS)
 14. Email clients (outlook, webmail, thunderbird, etc..)
 15. [POP](https://www.javatpoint.com/pop-protocol), [IMAP](https://www.google.com/amp/s/www.geeksforgeeks.org/internet-message-access-protocol-imap/amp/), [SMTP](https://www.google.com/amp/s/www.geeksforgeeks.org/simple-mail-transfer-protocol-smtp/amp/)
 16. [SSH](https://www.cloudflare.com/learning/access-management/what-is-ssh/)
