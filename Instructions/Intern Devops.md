@@ -1,24 +1,24 @@
 # Topics to Learn
 1. [Domain](https://www.youtube.com/watch?v=H2al7-l1p6c)
-2. TLD / CCTLD
-3. Registry
-4. Registrar
-5. [DNS](https://www.youtube.com/watch?v=pl2JKLbjOTM)
+2. [TLD](https://www.cloudflare.com/learning/dns/top-level-domain/) / [CCTLD](https://en.m.wikipedia.org/wiki/Country_code_top-level_domain)
+3. [Registry](https://en.m.wikipedia.org/wiki/Domain_name_registry)
+4. [Registrar](https://www.cloudflare.com/learning/dns/glossary/what-is-a-domain-name-registrar/)
+5. [DNS](https://www.youtube.com/watch?v=pl2JKLbjOTM) or [refer this](https://www.cloudflare.com/learning/dns/what-is-dns/) 
 6. Types of hosting - shared, VPS, dedicated, etc
-7. Email Hosting
-8. Web Hosting
-9. Web Server (Apache, Nginx, IIS, etc...)
-10. Web Space
-11. Database
-12. FTP
-13. Http / Https
+7. [Email Hosting](https://www.namecheap.com/guru-guides/what-is-email-hosting/)
+8. [Web Hosting](https://www.namecheap.com/hosting/what-is-web-hosting-definition/)
+9. [Web Server](https://developer.mozilla.org/en-US/docs/Learn/Common_questions/Web_mechanics/What_is_a_web_server) (Apache, Nginx, IIS, etc...)
+10. [Web Space](https://www.ntchosting.com/encyclopedia/internet/web-space/)
+11. [Database](https://www.geeksforgeeks.org/what-is-database/)
+12. [FTP](https://www.google.com/amp/s/www.geeksforgeeks.org/file-transfer-protocol-ftp-in-application-layer/amp/)
+13. [Http](https://www.cloudflare.com/learning/ddos/glossary/hypertext-transfer-protocol-http/#:~:text=The%20Hypertext%20Transfer%20Protocol%20(HTTP,of%20the%20network%20protocol%20stack.) / [Https](https://en.m.wikipedia.org/wiki/HTTPS)
 14. Email clients (outlook, webmail, thunderbird, etc..)
-15. POP, IMAP, SMTP
-16. SSH
+15. [POP](https://www.javatpoint.com/pop-protocol), [IMAP](https://www.google.com/amp/s/www.geeksforgeeks.org/internet-message-access-protocol-imap/amp/), [SMTP](https://www.google.com/amp/s/www.geeksforgeeks.org/simple-mail-transfer-protocol-smtp/amp/)
+16. [SSH](https://www.cloudflare.com/learning/access-management/what-is-ssh/)
 17. Website
-18. MS SQL
-19. MySql
-20. cPanel
-21. Plesk
+18. [MS SQL](https://www.tutorialspoint.com/ms_sql_server/index.htm)
+19. [MySql](https://www.w3schools.com/MySQL/default.asp)
+20. [cPanel](https://en.m.wikipedia.org/wiki/CPanel)
+21. [Plesk](https://en.m.wikipedia.org/wiki/Plesk)
 22. Spam & Anti Spam
-23. CWP
+23. [CWP](https://www.inmotionhosting.com/support/edu/control-web-panel/what-is-control-web-panel-cwp/#:~:text=Control%20Web%20Panel%20(CWP)%2C,%2Dline%20interface%20(CLI).)
