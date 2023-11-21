@@ -24,7 +24,10 @@
 23. [CWP](https://www.inmotionhosting.com/support/edu/control-web-panel/what-is-control-web-panel-cwp/#:~:text=Control%20Web%20Panel%20(CWP)%2C,%2Dline%20interface%20(CLI).)
 24. [Cron](https://www.hostinger.in/tutorials/cron-job) for easy calculation of time use [this](https://crontab.guru)
 25. [S3 Bucket](https://www.techtarget.com/searchaws/definition/AWS-bucket) 
-
+26. [dig Command](https://www.geeksforgeeks.org/dig-command-in-linux-with-examples/) 
+27. [nmap Command](https://www.geeksforgeeks.org/nmap-command-in-linux-with-examples/) 
+28. [SSL Certificate](https://www.cloudflare.com/learning/ssl/what-is-an-ssl-certificate/) 
+29. [Postfix](https://phoenixnap.com/kb/postfix-smtp#:~:text=Postfix%20is%20a%20free%2C%20open,service%20solution%20for%20Linux%20servers.)
 # Script to remove Welcome Screen From Contabo Servers
 
 ```
