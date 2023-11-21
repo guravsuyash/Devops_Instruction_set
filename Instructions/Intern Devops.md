@@ -28,7 +28,8 @@
 27. [nmap Command](https://www.geeksforgeeks.org/nmap-command-in-linux-with-examples/) 
 28. [SSL Certificate](https://www.cloudflare.com/learning/ssl/what-is-an-ssl-certificate/) 
 29. [Postfix](https://phoenixnap.com/kb/postfix-smtp#:~:text=Postfix%20is%20a%20free%2C%20open,service%20solution%20for%20Linux%20servers.)
-# Script to remove Welcome Screen From Contabo Servers
+# Script to remove Welcome Screen From Contabo Servers 
+#WelcomeScript
 
 ```
 rm -rf /etc/motd && touch /etc/motd | echo -e 'LANG=en_US.utf-8\nLC_ALL=en_US.utf-8' | sudo tee -a /etc/environment && exit
