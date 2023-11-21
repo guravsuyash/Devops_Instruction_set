@@ -23,4 +23,11 @@
 22. Spam & Anti Spam
 23. [CWP](https://www.inmotionhosting.com/support/edu/control-web-panel/what-is-control-web-panel-cwp/#:~:text=Control%20Web%20Panel%20(CWP)%2C,%2Dline%20interface%20(CLI).)
 24. [Cron](https://www.hostinger.in/tutorials/cron-job) for easy calculation of time use [this](https://crontab.guru)
-25. 
+25. [S3 Bucket](https://www.techtarget.com/searchaws/definition/AWS-bucket) 
+
+# Script to remove Welcome Screen From Contabo Servers
+
+```
+rm -rf /etc/motd && touch /etc/motd | echo -e 'LANG=en_US.utf-8\nLC_ALL=en_US.utf-8' | sudo tee -a /etc/environment && exit
+```
+
