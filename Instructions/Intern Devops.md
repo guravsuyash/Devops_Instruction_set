@@ -28,6 +28,8 @@
 27. [nmap Command](https://www.geeksforgeeks.org/nmap-command-in-linux-with-examples/) 
 28. [SSL Certificate](https://www.cloudflare.com/learning/ssl/what-is-an-ssl-certificate/) 
 29. [Postfix](https://phoenixnap.com/kb/postfix-smtp#:~:text=Postfix%20is%20a%20free%2C%20open,service%20solution%20for%20Linux%20servers.)
+30. [Hypervisor and its types](https://www.vmware.com/in/topics/glossary/content/hypervisor.html#:~:text=A%20hypervisor%2C%20also%20known%20as,such%20as%20memory%20and%20processing.)
+31. 
 # Script to remove Welcome Screen From Contabo Servers 
 #WelcomeScript
 
