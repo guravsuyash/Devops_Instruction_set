@@ -47,3 +47,36 @@ Visit this [site](https://www.inmotionhosting.com/support/edu/cpanel/cpanel-back
 
 Visit this [site](https://www.inmotionhosting.com/support/website/setup-scheduled-cpanel-backups/) for more detailed explanation
 
+This can also be done with the help of script by making this script and executing it onto the server (Experimental!! 😬😬)
+
+```
+#!/bin/bash
+
+  
+
+# Configuration
+
+source_cpanel_user="root"
+
+source_cpanel_ip="source_cpanel_ip"
+
+source_backup_dir="/home/source_cpanel_user/backups"
+
+destination_cpanel_ip="destination_cpanel_ip"
+
+destination_cpanel_user="destination_cpanel_user"
+
+destination_backup_dir="/home/destination_cpanel_user/backups"
+
+  
+
+# Generate cPanel Backup
+
+/usr/local/cpanel/bin/backup --force
+
+  
+
+# Transfer Backup to Destination Server
+
+scp ${source_backup_dir}/backup*.tar.gz ${destination_cpanel_user}@${destination_cpanel_ip}:${destination_backup_dir}/
+```
