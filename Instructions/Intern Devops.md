@@ -33,9 +33,18 @@
 # Script to remove Welcome Screen From Contabo Servers 
 #WelcomeScript
 
+Cent OS 7
+
 ```
 rm -rf /etc/motd && touch /etc/motd | echo -e 'LANG=en_US.utf-8\nLC_ALL=en_US.utf-8' | sudo tee -a /etc/environment && exit
 ```
+
+Ubuntu
+
+```
+rm -rf /etc/motd && touch /etc/motd && touch .hushlogin && exit
+```
+
 # Cpanel to Cpanel Backup
 #Cpanel_to_Cpanel
 
