@@ -60,7 +60,6 @@ This can also be done with the help of script by making this script and executin
 
 ```
 #!/bin/bash
-
   
 
 # Configuration
@@ -78,14 +77,24 @@ destination_cpanel_user="destination_cpanel_user"
 destination_backup_dir="/home/destination_cpanel_user/backups"
 
   
-
 # Generate cPanel Backup
 
 /usr/local/cpanel/bin/backup --force
-
   
 
 # Transfer Backup to Destination Server
 
 scp ${source_backup_dir}/backup*.tar.gz ${destination_cpanel_user}@${destination_cpanel_ip}:${destination_backup_dir}/
 ```
+
+# Installing Cpanel Onto Cent OS 7
+
+
+# MySQL Master Slave 
+#masterslave
+
+References :
+https://youtu.be/JXDuVypcHNA
+https://www.digitalocean.com/community/tutorials/how-to-set-up-replication-in-mysql#step-4-retrieving-binary-log-coordinates-from-the-source
+https://hevodata.com/learn/mysql-master-slave-replication/#:~:text=load%20data%20procedure.-,What%20Is%20Master%20Slave%20Replication%3F,the%20database%20all%20the%20time.
+https://chat.openai.com/share/f413d3c7-ab08-4405-8997-8d011b0aefd7
