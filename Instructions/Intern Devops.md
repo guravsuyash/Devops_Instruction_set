@@ -101,3 +101,11 @@ https://www.digitalocean.com/community/tutorials/how-to-set-up-replication-in-my
 https://hevodata.com/learn/mysql-master-slave-replication/#:~:text=load%20data%20procedure.-,What%20Is%20Master%20Slave%20Replication%3F,the%20database%20all%20the%20time.
 
 https://chat.openai.com/share/f413d3c7-ab08-4405-8997-8d011b0aefd7
+
+https://blog.devgenius.io/setup-master-slave-replication-with-mysql-e528dcd3b24a
+# Rsync
+https://www.digitalocean.com/community/tutorials/how-to-use-rsync-to-sync-local-and-remote-directories
+
+https://www.tecmint.com/rsync-local-remote-file-synchronization-commands/
+
+https://superuser.com/questions/1349358/rsync-with-cron-job-every-minute-issue
