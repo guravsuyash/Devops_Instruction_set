@@ -122,4 +122,3 @@ Site down: Reboot/CWP reboot/Migrate
 SMPT: Clear postfix if sender is same block from CWP user panel
 >
 Account Bandwidth issue increase this form (increase disk quota and Suspended: bandwidth by appending a 0 at the end -1 to make it Infinite ) Packages -> Edit Package
-{.is-info}
