@@ -113,3 +113,11 @@ https://www.digitalocean.com/community/tutorials/how-to-use-rsync-to-sync-local-
 https://www.tecmint.com/rsync-local-remote-file-synchronization-commands/
 
 https://superuser.com/questions/1349358/rsync-with-cron-job-every-minute-issue
+
+# Issues with their solution
+
+>
+Site down: Reboot/CWP reboot/Migrate
+SMPT: Clear postfix if sender is same block from CWP user panel
+Account Bandwidth issue increase this form (increase disk quota and Suspended: bandwidth by appending a 0 at the end -1 to make it Infinite ) Packages -> Edit Package
+{is-info}
