@@ -108,6 +108,7 @@ https://chat.openai.com/share/f413d3c7-ab08-4405-8997-8d011b0aefd7
 
 https://blog.devgenius.io/setup-master-slave-replication-with-mysql-e528dcd3b24a
 # Rsync
+#rsync
 https://www.digitalocean.com/community/tutorials/how-to-use-rsync-to-sync-local-and-remote-directories
 
 https://www.tecmint.com/rsync-local-remote-file-synchronization-commands/
