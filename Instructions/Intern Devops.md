@@ -33,3 +33,6 @@
 32. [DKIM record](https://www.cloudflare.com/learning/dns/dns-records/dns-dkim-record/)
 33. [DMARC record](https://www.cloudflare.com/learning/dns/dns-records/dns-dmarc-record/)
 34. [TXT record](https://www.cloudflare.com/learning/dns/dns-records/dns-txt-record/)
+35. [scp command](https://www.geeksforgeeks.org/scp-command-in-linux-with-examples/)
+36. [unzip command](https://www.javatpoint.com/how-to-unzip-files-in-linux)
+37. 
